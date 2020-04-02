@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b63efb7-d8df-47b6-a38d-db768273831c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sort_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/utils_diff_test.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>45015</find>
+      <find>VV855a08524102</find>
+      <find>{'errcode': 0, 'errmsg': 'ok'}</find>
+      <find>eQAt08523952</find>
+      <find>statsd</find>
+      <find>gen_pay_signature</find>
+      <find>settings</find>
+      <find>get_series_info</find>
+      <find>EASY_DICT</find>
+      <find>o3nI25yfOkY4DuJiXfwpBvoxYg3A</find>
+      <find>had_</find>
+      <find>had_ps</find>
+      <find>get_a</find>
+      <find>get_se</find>
+      <find>STATUS_NORMAL</find>
+      <find>SeriesAccess.objects</find>
+      <find>buy_series_ids</find>
+      <find>get_series_lis</find>
+      <find>SeriesAccess</find>
+      <find>SeriesAccessManager</find>
+      <find>Series</find>
+      <find>agree_withdraw_apply</find>
+      <find>J0</find>
+      <find>practice_calender</find>
+      <find>level_list</find>
+      <find>newest_lesson_access</find>
+      <find>check_lesson_access_update</find>
+      <find>broker</find>
+      <find>refund_order</find>
+      <find>agree_refund_to_account</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pymsql_utils.py" />
+        <option value="$PROJECT_DIR$/pymysql_utils_test.py" />
+        <option value="&lt;e413d5ed-d446-4060-a25e-4e66ef3a5c32&gt;/home/weike/projects/weike_elf/account/views.py" />
+        <option value="&lt;e413d5ed-d446-4060-a25e-4e66ef3a5c32&gt;/home/weike/projects/weike_elf/weike_elf/dev.py" />
+        <option value="&lt;e413d5ed-d446-4060-a25e-4e66ef3a5c32&gt;/home/weike/projects/weike_elf/comment/models.py" />
+        <option value="&lt;e413d5ed-d446-4060-a25e-4e66ef3a5c32&gt;/home/weike/jx_home_enter_20191225.json" />
+        <option value="&lt;e413d5ed-d446-4060-a25e-4e66ef3a5c32&gt;/home/weike/projects/weike_elf02/scripts/jx_ps_people.py" />
+        <option value="$PROJECT_DIR$/test/utils_diff_test.py" />
+        <option value="&lt;f837ca97-63e6-4b97-97b5-2754eb6a37b5&gt;/data/weike_elf/weike_elf/content/apis.py" />
+        <option value="&lt;e413d5ed-d446-4060-a25e-4e66ef3a5c32&gt;/home/weike/projects/weike_elf/scripts/home_point.py" />
+        <option value="&lt;f837ca97-63e6-4b97-97b5-2754eb6a37b5&gt;/home/weike/jx_home_enter_20191226.json" />
+        <option value="$PROJECT_DIR$/lib/utils.py" />
+        <option value="$PROJECT_DIR$/test/sort.py" />
+        <option value="$PROJECT_DIR$/lib/__init__.py" />
+        <option value="$PROJECT_DIR$/test/sort_test.py" />
+        <option value="$PROJECT_DIR$/test/home_enters.json" />
+        <option value="&lt;e413d5ed-d446-4060-a25e-4e66ef3a5c32&gt;/home/weike/projects/weike_elf/content/models.py" />
+        <option value="&lt;f837ca97-63e6-4b97-97b5-2754eb6a37b5&gt;/home/weike/jx_home_enter_num.json" />
+        <option value="&lt;f837ca97-63e6-4b97-97b5-2754eb6a37b5&gt;/data/weike_elf/weike_elf/scripts/jx_ps_people.py" />
+        <option value="&lt;e413d5ed-d446-4060-a25e-4e66ef3a5c32&gt;/home/weike/projects/weike_elf/scripts/jx_send_script.py" />
+        <option value="&lt;e413d5ed-d446-4060-a25e-4e66ef3a5c32&gt;/home/weike/projects/weike_elf/scripts/jx_ps_people.py" />
+        <option value="&lt;f837ca97-63e6-4b97-97b5-2754eb6a37b5&gt;/data/weike_elf/weike_elf/scripts/ps_send_message.py" />
+        <option value="&lt;e413d5ed-d446-4060-a25e-4e66ef3a5c32&gt;/home/weike/projects/weike_elf/scripts/ps_send_message.py" />
+        <option value="&lt;e413d5ed-d446-4060-a25e-4e66ef3a5c32&gt;/home/weike/projects/weike_elf/weike_elf/settings.py" />
+        <option value="&lt;e413d5ed-d446-4060-a25e-4e66ef3a5c32&gt;/home/weike/projects/weike_elf/content/const.py" />
+        <option value="&lt;f837ca97-63e6-4b97-97b5-2754eb6a37b5&gt;/home/weike/jx_no_had_ps_202001_0.json" />
+        <option value="&lt;e413d5ed-d446-4060-a25e-4e66ef3a5c32&gt;/home/weike/projects/weike_elf/content/urls.py" />
+        <option value="&lt;e413d5ed-d446-4060-a25e-4e66ef3a5c32&gt;/home/weike/projects/weike_elf/content/apis.py" />
+        <option value="&lt;f837ca97-63e6-4b97-97b5-2754eb6a37b5&gt;/data/weike_elf/weike_elf/scripts/broken_operations.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/webServers.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/zhenquan.cai/train-jingxin/weike_elf" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="D:\Program Files\JetBrains\PyCharm 2019.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\wheels\python-lib\lib" />
+      <recent name="D:\wheels\python-lib\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b63efb7-d8df-47b6-a38d-db768273831c" name="Default Changelist" comment="" />
+      <created>1577117479031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577117479031</updated>
+      <workItem from="1577117480715" duration="908000" />
+      <workItem from="1577156059578" duration="14942000" />
+      <workItem from="1577255714836" duration="14061000" />
+      <workItem from="1577322688201" duration="3872000" />
+      <workItem from="1577340246979" duration="21083000" />
+      <workItem from="1577689578550" duration="4495000" />
+      <workItem from="1577760529607" duration="1640000" />
+      <workItem from="1577779892908" duration="3989000" />
+      <workItem from="1577931544743" duration="5703000" />
+      <workItem from="1578042143717" duration="637000" />
+      <workItem from="1578128885984" duration="213000" />
+      <workItem from="1578129279577" duration="263000" />
+      <workItem from="1578392218123" duration="3482000" />
+      <workItem from="1578453231924" duration="2984000" />
+      <workItem from="1581680878073" duration="1231000" />
+      <workItem from="1581690158595" duration="712000" />
+      <workItem from="1581691486127" duration="258000" />
+      <workItem from="1581691763738" duration="150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="80623000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info id="Alibaba Cloud Explorer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.117962465" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.1424581" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.07122905" />
+      <window_info anchor="bottom" id="TypeScript" order="14" />
+      <window_info anchor="right" id="Alibaba Function Compute" weight="0.3297587" />
+      <window_info anchor="right" id="Alibaba Log Console" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.13941018" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.1424581" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="File Transfer" order="13" visible="true" weight="0.07122905" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="Remote Host" order="3" visible="true" weight="0.36796248" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/pymsql_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/crawler_utils_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/pymysql_utils_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/utils_diff_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding>
+            <element signature="e#353#368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/sort_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="87" column="18" lean-forward="true" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="18" />
+          <folding>
+            <element signature="e#390#405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/home_enters.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="51" column="2" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/zhenquan.cai/train-jingxin/jingxin/src/modules/personal-center/set-times-list/set-item/index.tsx" />
+  </component>
+</project>
